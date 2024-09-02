@@ -1,2 +1,3 @@
 # 2024-DB
-Studying DB
+
+Database Study Summary
